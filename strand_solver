@@ -1,0 +1,2 @@
+#!/bin/bash
+python strand_solver.py "$@"
